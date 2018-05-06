@@ -27,31 +27,23 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)material/alarms/Rolling_fog.ogg:system/media/audio/alarms/Rolling_fog.ogg \
     $(LOCAL_PATH)material/alarms/Spokes.ogg:system/media/audio/alarms/Spokes.ogg \
     $(LOCAL_PATH)material/alarms/Sunshower.ogg:system/media/audio/alarms/Sunshower.ogg \
-    $(LOCAL_PATH)material/effects/audio_end.ogg:system/media/audio/ui/audio_end.ogg \
-    $(LOCAL_PATH)material/effects/audio_initiate.ogg:system/media/audio/ui/audio_initiate.ogg \
-    $(LOCAL_PATH)material/effects/camera_click.ogg:system/media/audio/ui/camera_click.ogg \
-    $(LOCAL_PATH)material/effects/camera_focus.ogg:system/media/audio/ui/camera_focus.ogg \
-    $(LOCAL_PATH)material/effects/Dock.ogg:system/media/audio/ui/Dock.ogg \
-    $(LOCAL_PATH)material/effects/Effect_Tick.ogg:system/media/audio/ui/Effect_Tick.ogg \
-    $(LOCAL_PATH)material/effects/InCallNotification.ogg:system/media/audio/ui/InCallNotification.ogg \
-    $(LOCAL_PATH)material/effects/KeypressDelete.ogg:system/media/audio/ui/KeypressDelete.ogg \
-    $(LOCAL_PATH)material/effects/KeypressInvalid.ogg:system/media/audio/ui/KeypressInvalid.ogg \
-    $(LOCAL_PATH)material/effects/KeypressReturn.ogg:system/media/audio/ui/KeypressReturn.ogg \
-    $(LOCAL_PATH)material/effects/KeypressSpacebar.ogg:system/media/audio/ui/KeypressSpacebar.ogg \
-    $(LOCAL_PATH)material/effects/KeypressStandard.ogg:system/media/audio/ui/KeypressStandard.ogg \
-    $(LOCAL_PATH)material/effects/Lock.ogg:system/media/audio/ui/Lock.ogg \
-    $(LOCAL_PATH)material/effects/LowBattery.ogg:system/media/audio/ui/LowBattery.ogg \
-    $(LOCAL_PATH)material/effects/NFCFailure.ogg:system/media/audio/ui/NFCFailure.ogg \
-    $(LOCAL_PATH)material/effects/NFCInitiated.ogg:system/media/audio/ui/NFCInitiated.ogg \
-    $(LOCAL_PATH)material/effects/NFCSuccess.ogg:system/media/audio/ui/NFCSuccess.ogg \
-    $(LOCAL_PATH)material/effects/NFCTransferComplete.ogg:system/media/audio/ui/NFCTransferComplete.ogg \
-    $(LOCAL_PATH)material/effects/NFCTransferInitiated.ogg:system/media/audio/ui/NFCTransferInitiated.ogg \
-    $(LOCAL_PATH)material/effects/Trusted.ogg:system/media/audio/ui/Trusted.ogg \
-    $(LOCAL_PATH)material/effects/Undock.ogg:system/media/audio/ui/Undock.ogg \
-    $(LOCAL_PATH)material/effects/Unlock.ogg:system/media/audio/ui/Unlock.ogg \
-    $(LOCAL_PATH)material/effects/VideoRecord.ogg:system/media/audio/ui/VideoRecord.ogg \
-    $(LOCAL_PATH)material/effects/VideoStop.ogg:system/media/audio/ui/VideoStop.ogg \
-    $(LOCAL_PATH)material/effects/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg \
+    $(LOCAL_PATH)/effects/ogg/Dock.ogg:system/media/audio/ui/Dock.ogg \
+    $(LOCAL_PATH)/effects/ogg/Effect_Tick_48k.ogg:system/media/audio/ui/Effect_Tick.ogg \
+    $(LOCAL_PATH)/effects/ogg/KeypressDelete_120_48k.ogg:system/media/audio/ui/KeypressDelete.ogg \
+    $(LOCAL_PATH)/effects/ogg/KeypressReturn_120_48k.ogg:system/media/audio/ui/KeypressReturn.ogg \
+    $(LOCAL_PATH)/effects/ogg/KeypressSpacebar_120_48k.ogg:system/media/audio/ui/KeypressSpacebar.ogg \
+    $(LOCAL_PATH)/effects/ogg/KeypressStandard_120_48k.ogg:system/media/audio/ui/KeypressStandard.ogg \
+    $(LOCAL_PATH)/effects/ogg/KeypressInvalid_120_48k.ogg:system/media/audio/ui/KeypressInvalid.ogg \
+    $(LOCAL_PATH)/effects/ogg/Lock.ogg:system/media/audio/ui/Lock.ogg \
+    $(LOCAL_PATH)/effects/ogg/LowBattery.ogg:system/media/audio/ui/LowBattery.ogg \
+    $(LOCAL_PATH)/effects/ogg/Undock.ogg:system/media/audio/ui/Undock.ogg \
+    $(LOCAL_PATH)/effects/ogg/Unlock.ogg:system/media/audio/ui/Unlock.ogg \
+    $(LOCAL_PATH)/effects/ogg/Trusted_48k.ogg:system/media/audio/ui/Trusted.ogg \
+    $(LOCAL_PATH)/effects/ogg/VideoRecord_48k.ogg:system/media/audio/ui/VideoRecord.ogg \
+    $(LOCAL_PATH)/effects/ogg/VideoStop_48k.ogg:system/media/audio/ui/VideoStop.ogg \
+    $(LOCAL_PATH)/effects/ogg/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg \
+    $(LOCAL_PATH)/effects/ogg/camera_click_48k.ogg:system/media/audio/ui/camera_click.ogg \
+    $(LOCAL_PATH)/effects/ogg/camera_focus.ogg:system/media/audio/ui/camera_focus.ogg \
     $(LOCAL_PATH)material/notifications/Beginning.ogg:system/media/audio/notifications/Beginning.ogg \
     $(LOCAL_PATH)material/notifications/Coconuts.ogg:system/media/audio/notifications/Coconuts.ogg \
     $(LOCAL_PATH)material/notifications/Duet.ogg:system/media/audio/notifications/Duet.ogg \
