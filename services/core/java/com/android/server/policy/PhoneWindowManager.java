@@ -312,7 +312,7 @@ public class PhoneWindowManager implements WindowManagerPolicy {
     static final int MULTI_PRESS_POWER_BRIGHTNESS_BOOST = 2;
 
     // Number of presses needed before we induce panic press behavior on the back button
-    static final int PANIC_PRESS_BACK_COUNT = 4;
+    static final int PANIC_PRESS_BACK_COUNT = 30;
     static final int PANIC_PRESS_BACK_NOTHING = 0;
     static final int PANIC_PRESS_BACK_HOME = 1;
 
